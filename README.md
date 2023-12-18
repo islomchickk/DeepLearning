@@ -8,7 +8,7 @@ This repository contains my implementations of classes in Numpy with forward and
 - Layers (Linear, Conv2d, Sequential, BatchNorm1d, BatchNorm2d, Dropout) -> [layers.py]
 
     [activations.py]: <https://github.com/islomchickk/DeepLearning/blob/main/activations.py>
-    [criterions]: <https://github.com/islomchickk/DeepLearning/blob/main/criterions.py>
+    [criterions.py]: <https://github.com/islomchickk/DeepLearning/blob/main/criterions.py>
     [dataloader.py]: <https://github.com/islomchickk/DeepLearning/blob/main/dataloader.py>
     [optimizers.py]: <https://github.com/islomchickk/DeepLearning/blob/main/optimizers.py>
     [pools.py]: <https://github.com/islomchickk/DeepLearning/blob/main/pools.py>
